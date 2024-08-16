@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
     https://www.amazon.com/Oxford-Spiral-Notebook-College-Ruled/
 
-    'https://www.amazon.com/ViVin-Notebooks-Subject-College-Assorted/
+    https://www.amazon.com/ViVin-Notebooks-Subject-College-Assorted/
 
     https://www.amazon.com/Five-Star-Notebook-Customizable-820045-ECM
     
